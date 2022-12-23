@@ -1,0 +1,3 @@
+-I./libs
+-Wall
+-std=c++17
